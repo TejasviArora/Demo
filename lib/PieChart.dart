@@ -28,7 +28,7 @@ class PieChart extends StatelessWidget {
             ),
           Center(
             child: Container(
-              child: Center(child: Text("\$ 1956.20 ", style: TextStyle(fontSize: 15.0,fontWeight: FontWeight.bold))),
+              child: Center(child: Text(" ₹ 1956 ", style: TextStyle(fontSize: 15.0,fontWeight: FontWeight.bold))),
             height: 80,
             width: 80,
             decoration: BoxDecoration(
